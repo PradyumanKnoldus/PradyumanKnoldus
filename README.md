@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pradyuman Pratap Singh
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Scala
+- 👀 I’m a Software Development
 
 ## 1. GitHub Stats
 
